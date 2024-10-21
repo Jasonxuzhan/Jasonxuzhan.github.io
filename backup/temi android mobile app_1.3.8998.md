@@ -1,1 +1,0 @@
-https://app.bitrise.io/app/238ad733d8f6365d/installable-artifacts/443c38340e2e1bd2/public-install-page/4b3f3bf004476b29de659d5f245668c5
